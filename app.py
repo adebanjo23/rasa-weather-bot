@@ -16,7 +16,7 @@ def chat():
 
 def get_chat_response(text):
     print("Here2")
-    endpoint = "http://2750-197-210-76-9.ngrok-free.app/webhooks/rest/webhook"
+    endpoint = "http://d40d-197-210-52-75.ngrok-free.app/webhooks/rest/webhook"
     data = {
         "sender": "mayowa",
         "message": text
